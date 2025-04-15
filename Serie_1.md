@@ -3,7 +3,7 @@ Série d'exercices HTML/CSS
 Voici une série d'exercices progressifs pour pratiquer HTML et CSS. Chaque exercice est conçu pour vous faire travailler des concepts spécifiques.
 
 Exercice 1 : Structure de base et sélecteurs simples
-
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -29,9 +29,10 @@ Exercice 1 : Structure de base et sélecteurs simples
     </div>
 </body>
 </html>
-
+```
 Exercice 2 : Classes et IDs
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -56,9 +57,11 @@ Exercice 2 : Classes et IDs
     <div class="hidden">Ceci ne devrait pas être visible.</div>
 </body>
 </html>
+```
 
 Exercice 3 : Modèle de boîte (Box Model)
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -81,9 +84,11 @@ Exercice 3 : Modèle de boîte (Box Model)
     <div class="box">Boîte 3</div>
 </body>
 </html>
+```
 
 Exercice 4 : Positionnement
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -107,8 +112,11 @@ Exercice 4 : Positionnement
     <footer>Pied de page</footer>
 </body>
 </html>
+```
 
 Exercice 5 : Flexbox
+
+```html
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -137,9 +145,11 @@ Exercice 5 : Flexbox
     </div>
 </body>
 </html>
+```
 
 Exercice 6 : Grid
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -170,9 +180,11 @@ Exercice 6 : Grid
     </div>
 </body>
 </html>
+```
 
 Exercice 7 : Media Queries
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -193,9 +205,11 @@ Exercice 7 : Media Queries
     <div class="responsive-box">Je m'adapte à la taille de l'écran!</div>
 </body>
 </html>
+```
 
 Exercice 8 : Animations
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -216,9 +230,10 @@ Exercice 8 : Animations
     <div class="animated-box"></div>
 </body>
 </html>
-
+```
 Exercice 9 : Transitions
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -239,9 +254,11 @@ Exercice 9 : Transitions
     <button class="btn">Survolez-moi!</button>
 </body>
 </html>
+```
 
 Exercice 10 : Variables CSS
 
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -268,6 +285,7 @@ Exercice 10 : Variables CSS
     <footer>Pied de page</footer>
 </body>
 </html>
+```
 
 Pour chaque exercice, écrivez le CSS nécessaire dans les zones prévues à cet effet. Ces exercices couvrent les concepts fondamentaux de CSS et vous permettront de pratiquer les différentes fonctionnalités.
 
